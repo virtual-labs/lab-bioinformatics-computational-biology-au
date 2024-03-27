@@ -1,109 +1,107 @@
 {
-  "broadArea": {
-    "name": "Biotechnology and Biomedical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
-    "code": "BIO"
-  },
-  "lab": "Bioinformatics and Computational Biology",
-  "lab_display_name": "Bioinformatics and Computational Biology",
-  "phase":"3-ext" ,
-  "collegeName": "AMRT",
-  "baseUrl": "",
-  "introduction": "The goal of proposed virtual laboratories is to achieve a conceptual understanding of standard protocols and tools in biotechnology and biomedical engineering at an advanced level that may be useful in interdisciplinary fields of science and technology.",
-  "experiments": [
+    "broadArea": {
+        "name": "Biotechnology and Biomedical Engineering",
+        "link": "https://www.vlab.co.in/broad-area-biotechnology-and-biomedical-engineering",
+        "code": "BIO"
+    },
+    "lab": "Bioinformatics and Computational Biology",
+    "lab_display_name": "Bioinformatics and Computational Biology",
+    "phase": "3-ext",
+    "collegeName": "AMRT",
+    "baseUrl": "",
+    "introduction": "The goal of proposed virtual laboratories is to achieve a conceptual understanding of standard protocols and tools in biotechnology and biomedical engineering at an advanced level that may be useful in interdisciplinary fields of science and technology.",
+    "experiments": [
         {
-          "name": "Basic machine learning using the WEKA tool",
-          "short-name": "WEKA Tool",
-          "repo": "https://github.com/virtual-labs/exp-weka-tool-au",
-          "tag": "v1.0.0",
-          "deploy": true
+            "name": "Basic machine learning using the WEKA tool",
+            "short-name": "WEKA Tool",
+            "repo": "https://github.com/virtual-labs/exp-weka-tool-au",
+            "tag": "v1.0.0",
+            "deploy": true
         },
         {
-          "name": "Browsing genetic variation databases such as dbSNP, CLIN Var",
-          "short-name": "dbSNP CLIN Var",
-          "repo": "https://github.com/virtual-labs/exp-browsing-genetic-variation-au",
-          "tag": "v1.0.0",
-          "deploy": true
+            "name": "Browsing genetic variation databases such as dbSNP, CLIN Var",
+            "short-name": "dbSNP CLIN Var",
+            "repo": "https://github.com/virtual-labs/exp-browsing-genetic-variation-au",
+            "tag": "v1.0.0",
+            "deploy": true
         },
         {
-          "name": "Similarity search using BLAST",
-          "short-name": "Search Blast",
-          "repo": "https://github.com/virtual-labs/exp-blast-au",
-          "tag": "v1.0.0",
-          "deploy": true
+            "name": "Similarity search using BLAST",
+            "short-name": "Search Blast",
+            "repo": "https://github.com/virtual-labs/exp-blast-au",
+            "tag": "v1.0.0",
+            "deploy": true
         },
         {
-          "name": "Visualization of Protein Structure",
-          "short-name": "Protein Structure",
-          "repo": "https://github.com/virtual-labs/exp-visualization-protein-structure-au",
-          "tag": "v1.0.0",
-          "deploy": true
+            "name": "Visualization of Protein Structure",
+            "short-name": "Protein Structure",
+            "repo": "https://github.com/virtual-labs/exp-visualization-protein-structure-au",
+            "tag": "v1.0.0",
+            "deploy": true
         },
         {
-          "name": "Molecular Dynamics Simulation: GROMACS",
-          "short-name": "GROMACS",
-          "repo": "https://github.com/virtual-labs/exp-gromacs-au",
-          "tag": "v1.0.0",
-          "deploy": true
+            "name": "Molecular Dynamics Simulation: GROMACS",
+            "short-name": "GROMACS",
+            "repo": "https://github.com/virtual-labs/exp-gromacs-au",
+            "tag": "v1.0.0",
+            "deploy": true
         },
         {
-          "name": "Basic Algorithms in Bioinformatics",
-          "short-name": "Algorithms in Bioinformatics",
-          "repo": "https://github.com/virtual-labs/exp-bioinformatics-au",
-          "tag": "v1.0.0",
-          "deploy": true
+            "name": "Basic Algorithms in Bioinformatics",
+            "short-name": "Algorithms in Bioinformatics",
+            "repo": "https://github.com/virtual-labs/exp-bioinformatics-au",
+            "tag": "v1.0.0",
+            "deploy": true
         },
         {
-          "name": "Conversion of sequence from one database format to another using file format converter",
-          "short-name": "File format converter",
-          "repo": "https://github.com/virtual-labs/exp-file-format-converter-au",
-          "tag": "v1.0.0",
-          "deploy": true
+            "name": "Conversion of sequence from one database format to another using file format converter",
+            "short-name": "File format converter",
+            "repo": "https://github.com/virtual-labs/exp-file-format-converter-au",
+            "tag": "v1.0.0",
+            "deploy": true
         },
         {
-          "name": "An introduction to Next Generation Sequencing (NGS)",
-          "short-name": "Next Generation Sequencing",
-          "repo": "https://github.com/virtual-labs/exp-next-generation-sequencing-au",
-          "tag": "v1.0.0",
-          "deploy": true
+            "name": "An introduction to Next Generation Sequencing (NGS)",
+            "short-name": "Next Generation Sequencing",
+            "repo": "https://github.com/virtual-labs/exp-next-generation-sequencing-au",
+            "tag": "v1.0.0",
+            "deploy": true
         },
         {
-          "name": "To find out the number of times a sequence is repeated in a given DNA sequence",
-          "short-name": "DNA Sequence",
-          "repo": "https://github.com/virtual-labs/exp-dna-sequence-au",
-          "tag": "v1.0.0",
-          "deploy": true
+            "name": "To find out the number of times a sequence is repeated in a given DNA sequence",
+            "short-name": "DNA Sequence",
+            "repo": "https://github.com/virtual-labs/exp-dna-sequence-au",
+            "tag": "v1.0.0",
+            "deploy": true
         },
         {
-          "name": "To analyze the sequence of a given DNA and find out sequence composition",
-          "short-name": "Sequence composition",
-          "repo": "https://github.com/virtual-labs/exp-sequence-composition-au",
-          "tag": "v1.0.0",
-          "deploy": true
-        },
-    
-      ],
-  "targetAudience": {
-    "UG": [
-      "1st Year",
-      "2nd Year",
-      "3rd Year"
+            "name": "To analyze the sequence of a given DNA and find out sequence composition",
+            "short-name": "Sequence composition",
+            "repo": "https://github.com/virtual-labs/exp-sequence-composition-au",
+            "tag": "v1.0.0",
+            "deploy": true
+        }
     ],
-    
-  },
-  "objective": "The student with the knowledge of the basic laboratory content (including animation and simulation) can scientifically explain and solve various problems in biotechnology and can tackle new developments and breakthroughs efficiently in science and engineering technology. The labs are being designed to make teaching easier in colleges where teachers coming from interdisciplinary domains can handle the courses to teach visualization and interpretation of bioinformatics-related data sciences with graphical illustrations and usage simplicity. The labs can be extended as a course manual or reference textbook for bioscience students in biology, biotechnology, and microbiology.",
-  "courseAlignment": {
-    "description": "The syllabi of this lab align to the following universities in India.",
-    "universities": [
-      "Anna University; Bioinformatics; B.Tech Biotechnology",
-      "Visvesvaraya Technological University Karnataka; Bioinformatics; B.Tech Biotechnology",
-      "Bharathiyar University Tamil Nadu; Introduction to Bioinformatics; BSc Biotechnology",
-      "Kerala University; Bioinformatics; BSc Zoology/Botany/Biotechnology/Microbiology",
-      "BIO 3161: Bioinformatics Lab Manipal University B.Tech In Biotechnology",
-      "All AICTE Approved Universities"
-    ]
-  },
-  "version": "v1.19.0",
-  "exp_name": "Polynomial Arithmetic using linked lists",
-  "exp_short_name": "poly-arithmetic"
+    "targetAudience": {
+        "UG": [
+            "1st Year",
+            "2nd Year",
+            "3rd Year"
+        ]
+    },
+    "objective": "The student with the knowledge of the basic laboratory content (including animation and simulation) can scientifically explain and solve various problems in biotechnology and can tackle new developments and breakthroughs efficiently in science and engineering technology. The labs are being designed to make teaching easier in colleges where teachers coming from interdisciplinary domains can handle the courses to teach visualization and interpretation of bioinformatics-related data sciences with graphical illustrations and usage simplicity. The labs can be extended as a course manual or reference textbook for bioscience students in biology, biotechnology, and microbiology.",
+    "courseAlignment": {
+        "description": "The syllabi of this lab align to the following universities in India.",
+        "universities": [
+            "Anna University; Bioinformatics; B.Tech Biotechnology",
+            "Visvesvaraya Technological University Karnataka; Bioinformatics; B.Tech Biotechnology",
+            "Bharathiyar University Tamil Nadu; Introduction to Bioinformatics; BSc Biotechnology",
+            "Kerala University; Bioinformatics; BSc Zoology/Botany/Biotechnology/Microbiology",
+            "BIO 3161: Bioinformatics Lab Manipal University B.Tech In Biotechnology",
+            "All AICTE Approved Universities"
+        ]
+    },
+    "version": "v1.19.0",
+    "exp_name": "Polynomial Arithmetic using linked lists",
+    "exp_short_name": "poly-arithmetic"
 }
