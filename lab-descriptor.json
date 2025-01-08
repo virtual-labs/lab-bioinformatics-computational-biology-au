@@ -62,7 +62,7 @@
         },
         {
             "name": "An introduction to Next Generation Sequencing (NGS)",
-            "short-name": "Next Generation Sequencing",
+            "short-name": "next-generation-sequencing",
             "repo": "https://github.com/virtual-labs/exp-next-generation-sequencing-au",
             "tag": "v1.0.1",
             "deploy": true
