@@ -93,8 +93,6 @@
     },
     "objective": "The goal of proposed virtual laboratories is to achieve a conceptual understanding of standard protocols and tools in biotechnology and biomedical engineering at an advanced level that may be useful in interdisciplinary fields of science and technology. The student with the knowledge of the basic laboratory content (including animation and simulation) can scientifically explain and solve various problems in biotechnology and can tackle new developments and breakthroughs efficiently in science and engineering technology. The labs are being designed to make teaching easier in colleges where teachers coming from interdisciplinary domains can handle the courses to teach visualization and interpretation of bioinformatics-related data sciences with graphical illustrations and usage simplicity. The labs can be extended as a course manual or reference textbook for bioscience students in biology, biotechnology, and microbiology.",
     "courseAlignment": {
-        "description": "All institutes who offers a course in Bioinformatics, Computational Biology, Biosciences, and Computer sciences",
-        "universities": [
-        ]
+        "description": "All institutes who offers a course in Bioinformatics, Computational Biology, Biosciences, and Computer sciences"
     }
 }
