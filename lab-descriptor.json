@@ -6,7 +6,7 @@
     },
     "lab": "Bioinformatics and Computational Biology",
     "lab_display_name": "Bioinformatics and Computational Biology",
-    "phase": 3,
+    "phase": "3-ext",
     "collegeName": "AMRT",
     "baseUrl": "bcb-au.vlabs.ac.in",
     "introduction": "The rapid advancements in bioinformatics and computational biology have established these fields as essential components of modern biotechnology and biomedical research. To address the growing demand for accessible and practical training in these interdisciplinary areas, this proposal outlines the development of a comprehensive Bioinformatics and Computational Biology Virtual Laboratory. This initiative aims to provide students with an immersive and interactive learning experience, enabling them to grasp complex concepts, perform simulations, and analyze real-world data efficiently.The proposed virtual lab will serve as an educational bridge, equipping undergraduate students with the skills to interpret bioinformatics data, apply advanced computational tools, and gain familiarity with methodologies like machine learning, molecular dynamics, and next-generation sequencing. By leveraging cutting-edge virtual lab technologies, this platform will complement traditional classroom teaching and ensure accessibility to students from diverse educational backgrounds.",
